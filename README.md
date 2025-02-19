@@ -26,5 +26,3 @@
 
 ![image](results/img.png)
 ![image](results/img_1.png)
-
-#### Download model weights from [Google drive]()
